@@ -1,0 +1,9 @@
+{
+    "input_dir": "content",
+    "output_dir": "public",
+    "theme": "dark",
+    "title": "My Cool Site",
+    "javascript_libs": [
+        "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
+    ]
+}
